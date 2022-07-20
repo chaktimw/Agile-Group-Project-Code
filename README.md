@@ -10,4 +10,4 @@ Utilized Zenhub to create user stories and tasks for each member to complete. Ta
 
 Project Description: A point based platformer game with an online leaderboard.
 
-
+Warning: Some assets are missing due to large file sizes.
